@@ -10,7 +10,7 @@ public class Ejercicio7 {
 
 	public static void main(String[] args) {
 		Map<String, String> personajes = new HashMap<>();
-		String ruta = "C:\\Users\\curso\\Desktop\\AcademiaRMP\\OneDrive_2_04-12-2019\\Java-Advanced";
+		String ruta = "C:\\Users\\curso\\Desktop\\AcademiaRMP\\OneDrive_2_04-12-2019\\Java-Advanced\\millonario.txt";
 		personajes.put("a1234", "Steve Jobs");
 		personajes.put("a1235", "Scott McNealy");
 		personajes.put("a1236", "Jeff Bezos");
